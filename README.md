@@ -5,6 +5,7 @@
 1. [Program Description](#program-description)
 2. [How to use the program](#how-to-use)
 3. [How to Install](#how-to-install)
+
 ![image](https://user-images.githubusercontent.com/123034061/220333037-6e139c68-7cc5-4b16-a846-c265d3bdd81a.png)
 
 
@@ -27,15 +28,16 @@ It is fairly straight forward:
 To install this to-do list on your local machine, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Navigate to the folder that contains the 'package' and 'package-lock' files. 
+2. Extract all of the files and folders from the zipped folder
+3. Navigate to the folder that contains the 'package' and 'package-lock' files. 
 ![image](https://user-images.githubusercontent.com/123034061/220334773-2e3f6943-e122-4e47-b2aa-0ef3561a1516.png)
 
-3. In the file root path bar ( above the folders ) , Type in CMD to open command prompt:
+4. In the file root path bar ( above the folders ) , Type in CMD to open command prompt:
 ![image](https://user-images.githubusercontent.com/123034061/219879611-b9d689f4-0fba-47f6-a150-2818526d0640.png)
 
-4. Once in the command line, install the required dependencies by running the following  "npm install"
+5. Once in the command line, install the required dependencies by running the following  "npm install"
 ![image](https://user-images.githubusercontent.com/123034061/220336042-9f81c2c8-0cda-40a9-893b-73ce0e603ebd.png)
 
  
-5. Once this has finished installing, you can start the game by running the following  in the command line - **"npm start"**.
-6. This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser. 
+6. Once this has finished installing, you can start the game by running the following  in the command line - **"npm start"**.
+7. This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser. 
