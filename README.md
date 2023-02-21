@@ -16,7 +16,7 @@ Allowing the user to add tasks, delete tasks and mark tasks as complete.
 
 ## How to use the program <a name="how-to-use"/>
 It is fairly straight forward:
-- To add an item to the to do list: Enter the item discription into the box below the main heading, and click "Add".
+- **To add an item to the to do list:** Enter the item discription into the box below the main heading, and click "Add".
 - **To edit an existing item on the to do list:** Click "Edit" in the relevant item and change it's details via the onscreen prompt.
 - **To delete an item from the list:** Click delete on the relevant item. 
 - **To mark an item as complete:** Simply click the "Done" button on the relevant item line. 
