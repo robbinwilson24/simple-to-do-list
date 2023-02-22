@@ -1,6 +1,6 @@
 # simple-to-do-list
 
-###Table of Contents
+### Table of Contents
 
 1. [Program Description](#program-description)
 2. [How to use the program](#how-to-use)
